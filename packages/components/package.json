@@ -15,8 +15,8 @@
     "build": "babel src -d dist"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.22",
-    "@emotion/styled": "^10.0.23",
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
     "@socialgouv/emjpm-ui-core": "^1.20.2",
     "@storybook/addon-actions": "^5.2.8",
     "prop-types": "^15.7.2",
