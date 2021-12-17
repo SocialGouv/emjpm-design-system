@@ -18,7 +18,7 @@
     "@emotion/core": "^10.0.22",
     "@emotion/styled": "^10.0.23",
     "@socialgouv/emjpm-ui-core": "^1.20.2",
-    "@storybook/addon-actions": "^5.2.8",
+    "@storybook/addon-actions": "^5.3.18",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-select": "^3.0.8",
